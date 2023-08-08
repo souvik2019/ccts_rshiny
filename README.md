@@ -2,7 +2,6 @@
 ## Biostatistics Core (BSC), Center for Clinical and Translational Science (CCTS)
 ## The University of Illinois at Chicago
 ## 08/08/2023
-
 ## <<Purpose>>
 REDCap (Research Electronic Data Capture) is a nationwide online survey and database. To visualize any project involving
 a randomized controlled trial (RCT) in REDCap, researchers can use the R Shiny application called “Recruitment Tracker.”
@@ -80,6 +79,7 @@ Figure 2. An example of a long-form dataset
 Figure 3. Import the REDCap dataset via project token and then provide the initial setting information
 
 ![fig4](https://github.com/souvik2019/ccts_rshiny/blob/main/images/fig4.png)
+
 Figure 4. The data format of the optional variable list file (CSV file only)
 
 ## Example
@@ -113,4 +113,5 @@ number of randomized participants per site is 143.75 (=575/4). The mean number o
 randomization is 15.26, and the median is 15.
 
 ![fig6](https://github.com/souvik2019/ccts_rshiny/blob/main/images/fig6.png)
+
 Figure 6. Project Summary of the example dataset
