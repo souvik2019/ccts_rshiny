@@ -1,5 +1,8 @@
-# Rec Trac Project
-## Purpose
+# \underline{Rec Trac Project}
+## \begin{center}Purpose \end{center}
+\begin{center}
+checking center
+\end{center}
 REDCap (Research Electronic Data Capture) is a nationwide online survey and database. To visualize any project involving
 a randomized controlled trial (RCT) in REDCap, researchers can use the R Shiny application called “Recruitment Tracker.”
 “Recruitment Tracker” aims to establish a free, interactive, and [web-based dashboard]
