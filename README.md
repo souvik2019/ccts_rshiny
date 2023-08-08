@@ -2,7 +2,7 @@
 ## Biostatistics Core (BSC), Center for Clinical and Translational Science (CCTS)
 ## The University of Illinois at Chicago
 ## 08/08/2023
-###
+
 ## Purpose
 REDCap (Research Electronic Data Capture) is a nationwide online survey and database. To visualize any project involving
 a randomized controlled trial (RCT) in REDCap, researchers can use the R Shiny application called “Recruitment Tracker.”
@@ -11,6 +11,7 @@ a randomized controlled trial (RCT) in REDCap, researchers can use the R Shiny a
 according to their needs. The main function of this dashboard is to track the recruitment progress of an RCT project
 using tools and functionalities that provide real-time statistical results. Thus, this dashboard can support users in making
 decisions about recruitment progress and data collection based on the tracking reports.
+
 The secondary function of the “Recruitment Tracker” is to visualize the characteristics of the participants assigned to
 receive randomization in RCTs. Researchers can perform univariate and bivariate analyses on all demographic and clinical
 variables of interest. All the results in the “Recruitment Tracker” presented in graphs and tables are able to be
