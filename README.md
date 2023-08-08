@@ -11,5 +11,6 @@ decisions about recruitment progress and data collection based on the tracking r
 ![test image](https://github.com/souvik2019/ccts_rshiny/blob/main/images/fig1.png)
 <figure style="text-align: center;">
   <img src="https://github.com/souvik2019/ccts_rshiny/blob/main/images/fig1.png" alt="Image Alt Text">
-  <figcaption>Figure: A description of the image.</figcaption>
+  <figcaption style="text-align: center;">Figure: A description of the image.</figcaption>
 </figure>
+
