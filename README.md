@@ -7,3 +7,5 @@ a randomized controlled trial (RCT) in REDCap, researchers can use the R Shiny a
 according to their needs. The main function of this dashboard is to track the recruitment progress of an RCT project
 using tools and functionalities that provide real-time statistical results. Thus, this dashboard can support users in making
 decisions about recruitment progress and data collection based on the tracking reports.
+
+![test image](https://github.com/souvik2019/ccts_rshiny/blob/main/images/fig1.png)
