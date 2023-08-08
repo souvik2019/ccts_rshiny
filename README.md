@@ -2,7 +2,7 @@
 ## Biostatistics Core (BSC), Center for Clinical and Translational Science (CCTS)
 ## The University of Illinois at Chicago
 ## 08/08/2023
-## <<Purpose>>
+## &lt;&lt;Purpose&gt;&gt;
 REDCap (Research Electronic Data Capture) is a nationwide online survey and database. To visualize any project involving
 a randomized controlled trial (RCT) in REDCap, researchers can use the R Shiny application called “Recruitment Tracker.”
 “Recruitment Tracker” aims to establish a free, interactive, and web-based dashboard
